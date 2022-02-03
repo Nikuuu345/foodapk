@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Foodapk</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="railway_food_app">Railway Food App</string>
+    <string name="hello_eat_your_dream_food">hello_eat_your_dream_food</string>
+    <string name="register">Register</string>
+    <string name="sign_in">sign_in</string>
+    <string name="my_railway_food">My_Railway_Food</string>
+    <string name="Register">Register</string>
+    <string name="full_name">Full_Name</string>
+
+    <string name="email_address">email_address</string>
+    <string name="Email_Address">Email_Address</string>
+    <string name="password">Password</string>
+    <string name="email_Address">Email Address</string>
+    <string name="already_register">Already Register</string>
+    <string name="Sign_in">sign_in</string>
+    <string name="already_registers">Already Register?</string>
+    <string name="sign_inn">sign in</string>
+    <string name="don_t_have_an_accountt">Don\'t Have An Account?</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="daily_meal">Daily Meal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="s_t_c">S T C</string>
+    <string name="shorttimecoding_gmail_com">ShortTimeCoding@gmail.com</string>
+    <string name="log_out">Log Out</string>
+    <string name="search_your_food">Search Your Food!</string>
+    <string name="hello_user">Hello User</string>
+    <string name="what_do_you_want">What Do You Want ?</string>
+
+
+</resources>
